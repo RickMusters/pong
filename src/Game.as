@@ -176,7 +176,7 @@ package
 			ball.PaddleCollision(paddleL, cpuPaddle1);
 			ball.PaddleCollision(paddleL2, cpuPaddle2);
 			ball.PaddleCollision(paddleL3, cpuPaddle3);
-			if (minute == 5)
+			if (minute == 1)
 			{
 				fscommand("quit");
 			}
